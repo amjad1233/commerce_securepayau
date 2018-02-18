@@ -1,0 +1,8 @@
+name: commerce_securepayau
+type: module
+description: Integrates SecurePay.com.au with Commerce Payment
+package: Commerce (contrib)
+dependencies:
+  - commerce
+  - commerce_payment
+core: 8.x
